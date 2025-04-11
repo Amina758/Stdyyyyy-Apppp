@@ -1,1 +1,2 @@
-https://stdyyyyy-apppp.vercel.app/
+
+https://stud-iq.vercel.app/
